@@ -38,7 +38,7 @@
 * Here is an overview of key factors driving sales and potential risks of the business:
 * Financial Health: Overall sales are growing steadily each year. There is a strong seasonal trend, with sales peaking in December.
 * Growth Drivers:
-  * Promotions: This is the main tool to boost demand. On average, promotions increase sales by +38.8% compared to normal days.
+  * Promotions: This is the main tool to boost demand. On average, promotions increase sales by +40.6% compared to normal days.
   * Store Type: Although there are few StoreType 'b' locations, they are highly effective. Their average sales are 1.5 to 2 times higher than other store models.
 * Risks & Challenges:
   * Competition: New competitors opening within 500 meters cause sales to drop by about 9%.
