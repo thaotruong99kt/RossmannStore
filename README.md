@@ -2,8 +2,7 @@
 
 **1. Project Overview**
 * This project analyzes the historical sales of 1,115 Rossmann stores. The primary objective is not only to clean the data but also to analyze store behavior, the effectiveness of promotions, the impact of competitors, and the influence of holidays.
-
-The project delivers actionable insights and strategies for marketing optimization.
+* The project delivers actionable insights and strategies for marketing optimization.
 
 **2. Business Questions**
 * Macro Trend: How do sales revenues change over time, and what is the seasonal pattern?
@@ -52,7 +51,7 @@ The project delivers actionable insights and strategies for marketing optimizati
 **6.2 Micro Seasonality (Heatmap - Month x Weekdays)**
 <img width="1366" height="446" alt="image" src="https://github.com/user-attachments/assets/82fcb17a-38f6-4a00-9f32-047186edfdfd" />
 
-*Visualizes customer behavior and sales trends. Weekends and year-end months are the Hotspots for sales revenue. 
+* Visualized customer behavior and sales trends. Weekends and year-end months are the Hotspots for sales revenue. 
 
 **6.3 Store Performance**
 <img width="1364" height="445" alt="image" src="https://github.com/user-attachments/assets/e6bc28c2-49d8-480e-905a-2270ec3190ca" />
@@ -84,7 +83,9 @@ The project delivers actionable insights and strategies for marketing optimizati
   
 **Holiday Stock-up Effect**
 <img width="897" height="497" alt="image" src="https://github.com/user-attachments/assets/4e516bb9-a596-410b-9850-bba3331ef4fb" />
-Peak sales consistently occur 3-4 days before a holiday. When the school holiday starts, sales decrease immediately. Therefore, logistics should prioritize high stock levels for the T-4 period. 
+
+* Peak sales consistently occur 3-4 days before a holiday. When the school holiday starts, sales decrease immediately. Therefore, logistics should prioritize high stock levels for the T-4 period.
+  
 <img width="894" height="495" alt="image" src="https://github.com/user-attachments/assets/1e9cc789-1725-4e47-a59f-fbae5794abfc" />
 
 **7. Tools & Libraries**
