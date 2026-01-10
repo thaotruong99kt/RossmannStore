@@ -51,22 +51,28 @@ The project delivers actionable insights and strategies for marketing optimizati
 
 **6.2 Micro Seasonality (Heatmap - Month x Weekdays)**
 <img width="1366" height="446" alt="image" src="https://github.com/user-attachments/assets/82fcb17a-38f6-4a00-9f32-047186edfdfd" />
-Visualizes customer behavior and sales trends. Weekends and year-end months are the Hotspots for sales revenue. 
+
+*Visualizes customer behavior and sales trends. Weekends and year-end months are the Hotspots for sales revenue. 
 
 **6.3 Store Performance**
 <img width="1364" height="445" alt="image" src="https://github.com/user-attachments/assets/e6bc28c2-49d8-480e-905a-2270ec3190ca" />
-StoreType 'b' generates the highest revenue, approximately 1.5x higher than other types. Meanwhile, StoreType 'a' and 'd' show lower efficiency and perform similarly. 
+
+* StoreType 'b' generates the highest revenue, approximately 1.5x higher than other types. Meanwhile, StoreType 'a' and 'd' show lower efficiency and perform similarly. 
 
 <img width="897" height="696" alt="image" src="https://github.com/user-attachments/assets/2d0bc2e5-1ac5-41a3-b5af-b3d40aeb7d39" />
-There is a clear differentiation. "Stars" exhibit stable activities and high revenue. In contrast, "Underperformers" (accounting for ~15-20% of total stores) face low sales with high volatility. Operational audits are recommended for this group to identify root causes. 
+
+* There is a clear differentiation. "Stars" exhibit stable activities and high revenue. In contrast, "Underperformers" (accounting for ~15-20% of total stores) face low sales with high volatility. Operational audits are recommended for this group to identify root causes. 
 
 <img width="944" height="225" alt="image" src="https://github.com/user-attachments/assets/636a1638-e554-47cb-8ba5-2d676a5bec7b" />
-The sales gap between the Top 50 and Bottom 50 stores stems mainly from Traffic (2.3x gap), while the Basket Size gap is minimal (1.1x). The issue for underperforming stores likely lies in Location or Marketing strategy, not upsell capability. 
+
+* The sales gap between the Top 50 and Bottom 50 stores stems mainly from Traffic (2.3x gap), while the Basket Size gap is minimal (1.1x). The issue for underperforming stores likely lies in Location or Marketing strategy, not upsell capability. 
 
 <img width="994" height="785" alt="image" src="https://github.com/user-attachments/assets/c35e373b-d571-4d6d-9740-8374465b3e03" />
+
 * Small stores (Types 'a', 'c') are dependent on promotions, with sales surging over 40% during discounts. In contrast, large stores (Type 'b') have strong organic sales and are less sensitive to promotions. For the action plan, cut the promotion budget for Type 'b' and reallocate resources to small stores to optimize ROI.
   
 <img width="695" height="497" alt="image" src="https://github.com/user-attachments/assets/5b375589-12cd-43fb-8669-c8eb91a01f22" />
+
 * Promo2 participants have lower baseline sales (smaller scale) but achieve higher uplift during promotions (+43% vs 39%). In conclusion, Promo2 should be maintained as a support tool, specifically for weaker stores to stabilize sales. Do not force stores to participate.  
 
 **6.4 Context & Environment**
