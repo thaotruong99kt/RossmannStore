@@ -32,7 +32,7 @@
 * Business Metrics:
   * AvgBasket: Calculated the average transaction value per customer.
   * OpenDayFlag: Created a flag for actual trading days (Filtered OpenDayFlag=1 for the entire analysis process).
-  * DistanceBand: Grouped competitor distances into categorical bands (e.g., <500m, >5km).
+  * DistanceBand: Grouped competitor distances into categorical bands (<500m, >5km,...).
     
 **5. Executive Summary**
 * Here is an overview of key factors driving sales and potential risks of the business:
